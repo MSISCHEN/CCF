@@ -12,7 +12,7 @@ package date201712;
 1 5 4 8 20
 样例输出
 1
- */
+ */ 
 import java.util.Scanner;
 public class Test1 {
 	public static void main(String[] args) {
